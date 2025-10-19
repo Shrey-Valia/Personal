@@ -1,3 +1,3 @@
-Name:Shrey Valia \n
+Name:Shrey Valia 
 Major: Computer Science
 Graduation Date: 2029
